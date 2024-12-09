@@ -1,0 +1,12 @@
+[package]
+name = "json-formatter"
+group = "fluvio"
+version = "0.1.0"
+apiVersion = "0.1.0"
+description = "Read fields in a JSON record and generates a formatted string"
+license = "Apache-2.0"
+visibility = "public"
+
+[[params]]
+name = "spec"
+description = "Formatter specification"
