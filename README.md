@@ -26,3 +26,4 @@ You can build and run smartmodules locally, or you can download them from the Fl
 
 [rss-json]: rss-json/README.md
 [json-formatter]: json-formatter/README.md
+[key-gen-json]: key-gen-json/README.md
