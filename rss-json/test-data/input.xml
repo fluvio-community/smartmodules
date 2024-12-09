@@ -1,0 +1,300 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacker News: Newest</title>
+    <link>https://news.ycombinator.com/newest</link>
+    <description>Hacker News RSS</description>
+    <docs>https://hnrss.org/</docs>
+    <generator>hnrss v2.1</generator>
+    <lastBuildDate>Tue, 02 May 2023 18:37:30 +0000</lastBuildDate>
+    <atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title><![CDATA[Smith's notes on Category Theory I updated]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.logicmatters.net/categories/">https://www.logicmatters.net/categories/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792188">https://news.ycombinator.com/item?id=35792188</a></p>
+<p>Points: 1</p>
+<p># Comments: 1</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:35:27 +0000</pubDate>
+      <link>https://www.logicmatters.net/categories/</link>
+      <dc:creator>KurtGodelLives</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792188</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792188</guid>
+    </item>
+    <item>
+      <title><![CDATA[Grok: New Relic's GPT Assistant]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://newrelic.com/blog/nerdlog/new-relic-grok">https://newrelic.com/blog/nerdlog/new-relic-grok</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792177">https://news.ycombinator.com/item?id=35792177</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:34:37 +0000</pubDate>
+      <link>https://newrelic.com/blog/nerdlog/new-relic-grok</link>
+      <dc:creator>JordiGarcL</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792177</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792177</guid>
+    </item>
+    <item>
+      <title><![CDATA[IconShop: Text-based vector icon synthesis with autoregressive transformers]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://kingnobro.github.io/iconshop/">https://kingnobro.github.io/iconshop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792164">https://news.ycombinator.com/item?id=35792164</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:33:25 +0000</pubDate>
+      <link>https://kingnobro.github.io/iconshop/</link>
+      <dc:creator>motoxpro</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792164</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792164</guid>
+    </item>
+    <item>
+      <title><![CDATA[Holcomb Energy Systems the Future of Energy on Planet Earth]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://holcombenergysystems.com/about-us/">https://holcombenergysystems.com/about-us/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792156">https://news.ycombinator.com/item?id=35792156</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:33:11 +0000</pubDate>
+      <link>https://holcombenergysystems.com/about-us/</link>
+      <dc:creator>olivermarks</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792156</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792156</guid>
+    </item>
+    <item>
+      <title><![CDATA[PC Expo New York 1994 (The Computer Chronicles) [video]]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.youtube.com/watch?v=D0dBOcVUIbQ">https://www.youtube.com/watch?v=D0dBOcVUIbQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792118">https://news.ycombinator.com/item?id=35792118</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:30:04 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=D0dBOcVUIbQ</link>
+      <dc:creator>indigodaddy</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792118</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792118</guid>
+    </item>
+    <item>
+      <title><![CDATA[Address the growing urgency of fungal disease in crops]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.nature.com/articles/d41586-023-01465-4">https://www.nature.com/articles/d41586-023-01465-4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792115">https://news.ycombinator.com/item?id=35792115</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:29:51 +0000</pubDate>
+      <link>https://www.nature.com/articles/d41586-023-01465-4</link>
+      <dc:creator>rntn</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792115</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792115</guid>
+    </item>
+    <item>
+      <title><![CDATA[Ukraine war: what China gains from acting as peacemaker]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://theconversation.com/ukraine-war-what-china-gains-from-acting-as-peacemaker-204629">https://theconversation.com/ukraine-war-what-china-gains-from-acting-as-peacemaker-204629</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792104">https://news.ycombinator.com/item?id=35792104</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:29:26 +0000</pubDate>
+      <link>
+        https://theconversation.com/ukraine-war-what-china-gains-from-acting-as-peacemaker-204629</link>
+      <dc:creator>rntn</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792104</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792104</guid>
+    </item>
+    <item>
+      <title><![CDATA[A low-carbon electricity sector in Europe risks sustaining regional inequalities]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.nature.com/articles/s41467-023-37946-3">https://www.nature.com/articles/s41467-023-37946-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792099">https://news.ycombinator.com/item?id=35792099</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:28:48 +0000</pubDate>
+      <link>https://www.nature.com/articles/s41467-023-37946-3</link>
+      <dc:creator>rntn</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792099</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792099</guid>
+    </item>
+    <item>
+      <title><![CDATA[Consumer escapism: Scale development, validation, and physiological associations]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.sciencedirect.com/science/article/pii/S0148296323001637">https://www.sciencedirect.com/science/article/pii/S0148296323001637</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35792084">https://news.ycombinator.com/item?id=35792084</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:28:05 +0000</pubDate>
+      <link>https://www.sciencedirect.com/science/article/pii/S0148296323001637</link>
+      <dc:creator>rntn</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35792084</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35792084</guid>
+    </item>
+    <item>
+      <title><![CDATA[NYPD urges citizens to buy AirTags to fight surge in car thefts]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/">https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791947">https://news.ycombinator.com/item?id=35791947</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:19:05 +0000</pubDate>
+      <link>
+        https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/</link>
+      <dc:creator>pseudolus</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791947</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791947</guid>
+    </item>
+    <item>
+      <title><![CDATA[Show HN: We built a VS Code extension to streamline dogfooding at Ditto]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.dittowords.com/blog/we-built-a-vs-code-extension-to-streamline-dogfooding-at-ditto">https://www.dittowords.com/blog/we-built-a-vs-code-extension-to-streamline-dogfooding-at-ditto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791940">https://news.ycombinator.com/item?id=35791940</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:18:31 +0000</pubDate>
+      <link>
+        https://www.dittowords.com/blog/we-built-a-vs-code-extension-to-streamline-dogfooding-at-ditto</link>
+      <dc:creator>ashleynewman</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791940</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791940</guid>
+    </item>
+    <item>
+      <title><![CDATA[New Modern Fast Crawler]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://github.com/XORbit01/webpalm">https://github.com/XORbit01/webpalm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791932">https://news.ycombinator.com/item?id=35791932</a></p>
+<p>Points: 1</p>
+<p># Comments: 1</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:17:58 +0000</pubDate>
+      <link>https://github.com/XORbit01/webpalm</link>
+      <dc:creator>XORbit01</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791932</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791932</guid>
+    </item>
+    <item>
+      <title><![CDATA[Many Bird Species Are Having Fewer Chicks as the World Warms]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://subscriber.politicopro.com/article/eenews/2023/05/02/many-bird-species-having-fewer-chicks-as-world-warms-00094754">https://subscriber.politicopro.com/article/eenews/2023/05/02/many-bird-species-having-fewer-chicks-as-world-warms-00094754</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791920">https://news.ycombinator.com/item?id=35791920</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:17:04 +0000</pubDate>
+      <link>
+        https://subscriber.politicopro.com/article/eenews/2023/05/02/many-bird-species-having-fewer-chicks-as-world-warms-00094754</link>
+      <dc:creator>pseudolus</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791920</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791920</guid>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft could offer private ChatGPT to businesses for 10 times the normal cost]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://arstechnica.com/information-technology/2023/05/report-microsoft-plans-privacy-first-chatgpt-for-businesses-with-secrets-to-keep/">https://arstechnica.com/information-technology/2023/05/report-microsoft-plans-privacy-first-chatgpt-for-businesses-with-secrets-to-keep/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791917">https://news.ycombinator.com/item?id=35791917</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:16:55 +0000</pubDate>
+      <link>
+        https://arstechnica.com/information-technology/2023/05/report-microsoft-plans-privacy-first-chatgpt-for-businesses-with-secrets-to-keep/</link>
+      <dc:creator>hassanahmad</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791917</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791917</guid>
+    </item>
+    <item>
+      <title><![CDATA[Breaking Down the System Layer]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://synit.org/book/system-layer.html">https://synit.org/book/system-layer.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791893">https://news.ycombinator.com/item?id=35791893</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:15:54 +0000</pubDate>
+      <link>https://synit.org/book/system-layer.html</link>
+      <dc:creator>tonyg</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791893</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791893</guid>
+    </item>
+    <item>
+      <title><![CDATA[Fine-Tuning OpenAI Language Models with Noisily Labeled Data]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html">https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791859">https://news.ycombinator.com/item?id=35791859</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:13:21 +0000</pubDate>
+      <link>
+        https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html</link>
+      <dc:creator>anishathalye</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791859</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791859</guid>
+    </item>
+    <item>
+      <title><![CDATA[Build a Google Chat Bot Powered by ChatGPT]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://github.com/GQueues/build-a-google-chat-bot-with-chatgpt">https://github.com/GQueues/build-a-google-chat-bot-with-chatgpt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791853">https://news.ycombinator.com/item?id=35791853</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:12:50 +0000</pubDate>
+      <link>https://github.com/GQueues/build-a-google-chat-bot-with-chatgpt</link>
+      <dc:creator>mooreds</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791853</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791853</guid>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin Climbs as US Bank Failure Bolsters Crypto Narrative]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative">https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791825">https://news.ycombinator.com/item?id=35791825</a></p>
+<p>Points: 9</p>
+<p># Comments: 9</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:10:56 +0000</pubDate>
+      <link>
+        https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative</link>
+      <dc:creator>latchkey</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791825</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791825</guid>
+    </item>
+    <item>
+      <title><![CDATA[Oliver Stone: ‘Putin is a great leader for his country’]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://www.theguardian.com/film/2023/may/01/oliver-stone-documentary-nuclear-power-putin-biden">https://www.theguardian.com/film/2023/may/01/oliver-stone-documentary-nuclear-power-putin-biden</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791817">https://news.ycombinator.com/item?id=35791817</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:10:31 +0000</pubDate>
+      <link>
+        https://www.theguardian.com/film/2023/may/01/oliver-stone-documentary-nuclear-power-putin-biden</link>
+      <dc:creator>lisasays</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791817</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791817</guid>
+    </item>
+    <item>
+      <title><![CDATA[Evaluating a Redesign]]></title>
+      <description><![CDATA[
+<p>Article URL: <a href="https://world.hey.com/jason/evaluating-a-redesign-80309257">https://world.hey.com/jason/evaluating-a-redesign-80309257</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35791794">https://news.ycombinator.com/item?id=35791794</a></p>
+<p>Points: 2</p>
+<p># Comments: 1</p>
+]]></description>
+      <pubDate>Tue, 02 May 2023 18:08:39 +0000</pubDate>
+      <link>https://world.hey.com/jason/evaluating-a-redesign-80309257</link>
+      <dc:creator>dotcoma</dc:creator>
+      <comments>https://news.ycombinator.com/item?id=35791794</comments>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=35791794</guid>
+    </item>
+  </channel>
+</rss>
