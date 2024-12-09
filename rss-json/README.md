@@ -107,4 +107,4 @@ This project uses [rust-syndication/rss] to parse the XML.
 
 
 [rust-syndication/rss]: https://github.com/rust-syndication/rss
-[map]: https://www.fluvio.io/smartmodules/transform/map/
+[map]: https://www.fluvio.io/docs/smartmodules/features/operators/map

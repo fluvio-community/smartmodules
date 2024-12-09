@@ -163,5 +163,5 @@ cargo test
 ```
 
 
-[map]: https://www.fluvio.io/smartmodules/transform/map/
+[map]: https://www.fluvio.io/docs/smartmodules/features/operators/map
 [JSON Pointer]: https://datatracker.ietf.org/doc/html/rfc6901

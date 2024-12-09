@@ -1,0 +1,11 @@
+/Users/aj/local/github/smartmodules/key-gen-json/target/wasm32-wasi/release-lto/deps/libfluvio_types-f07c6533e12b6660.rmeta: /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/lib.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/defaults.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/macros.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/partition.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/config_file.rs
+
+/Users/aj/local/github/smartmodules/key-gen-json/target/wasm32-wasi/release-lto/deps/libfluvio_types-f07c6533e12b6660.rlib: /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/lib.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/defaults.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/macros.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/partition.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/config_file.rs
+
+/Users/aj/local/github/smartmodules/key-gen-json/target/wasm32-wasi/release-lto/deps/fluvio_types-f07c6533e12b6660.d: /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/lib.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/defaults.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/macros.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/partition.rs /Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/config_file.rs
+
+/Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/lib.rs:
+/Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/defaults.rs:
+/Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/macros.rs:
+/Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/partition.rs:
+/Users/aj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluvio-types-0.4.6/src/config_file.rs:

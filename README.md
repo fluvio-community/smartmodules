@@ -6,6 +6,7 @@ This repository contains a collection of smartmodules that can be used with the 
 | ----------------------------- | ------ | ------ | ------------------------------------ |
 | [rss-json]                    | xml    | json   | Parses RSS XML input into JSON format |
 | [json-formatter]              | json   | json   | Generated a formatted string from JSON values |
+| [key-gen-json]                | json   | json   | Generates a unique key (digest) from JSON values |
 
 --
 
