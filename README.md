@@ -9,13 +9,10 @@ This repository contains a collection of smartmodules that can be used with the 
 | [key-gen-json]                | json   | json   | Generates a unique key (digest) from JSON values |
 | [array-map-json]              | json   | json   | Splits an JSON array into individual records |
 | [regex-map-json]              | json   | json   | Applies Regex transformations on JSON values |
-
---
-
-| Smartmodule Project           | Input  | Output | Description                           |
-| ----------------------------- | ------ | ------ | ------------------------------------ |
 | [regex-map]                   | text   | text   | Applies Regex transformations on arbitrary text |
-| [cvs-json]                    | csv    | json   | Turns a CVS file into an array of json records | 
+| [regex-map]                   | text   | text   | Applies Regex transformations on arbitrary text |
+| [csv-json]                    | csv    | json   | Turns a CVS file into an array of json records | 
+
 
 ## How to use smartmodules
 
@@ -28,3 +25,5 @@ You can build and run smartmodules locally, or you can download them from the Fl
 [key-gen-json]: key-gen-json/README.md
 [array-map-json]: array-map-json/README.md
 [regex-map-json]: regex-map-json/README.md
+[regex-map]: regex-map/README.md
+[csv-json]: csv-json/README.md

@@ -1,0 +1,24 @@
+{
+  "description": "Independence High School",
+  "class": "2025-A",
+  "students": [
+    {
+        "first": "Abby",
+        "last": "Hardy",
+        "address": "285 LA PALA DR APT 2343, SAN JOSE CA 95127",
+        "ssn": "123-45-6789"
+    },
+    {
+        "first": "Bob",
+        "last": "Newmal",
+        "address": "21 E TRIMBLE RD, Santa Clara CA 95347",
+        "ssn": "987-65-4321"
+    },
+    {
+        "first": "Cindy",
+        "last": "Hall",
+        "address": "1601 PRIME PL, Milpitas CA 95344",
+        "ssn": "999-88-7777"
+    }
+  ]
+}
