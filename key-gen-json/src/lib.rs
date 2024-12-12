@@ -1,10 +1,11 @@
 use std::borrow::Cow;
 
-use sha256::digest;
 use once_cell::sync::OnceCell;
 use eyre::ContextCompat;
 use serde::{Serialize, Deserialize};
 use serde_json::Value;
+use sha2::{Sha256, Digest};
+use hex;
 
 use fluvio_smartmodule::{
     smartmodule, Result, SmartModuleRecord, RecordData,
@@ -46,7 +47,10 @@ fn extract_json_fields(data: &str, lookup: &[String]) -> Result<String> {
 
 /// Ecapsulate sha256::digest in an API.
 fn generate_key(input: String) -> String {
-    digest(input)
+    let mut hasher = Sha256::new();
+    hasher.update(input);
+    let result = hasher.finalize();
+    hex::encode(result)
 }
 
 /// Add keys to a json Value.

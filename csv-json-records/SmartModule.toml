@@ -1,9 +1,9 @@
 [package]
-name = "rss-json"
+name = "csv-json-records"
 group = "fluvio"
 version = "0.1.0"
 apiVersion = "0.1.0"
-description = "Converts RSS XML into JSON"
+description = "Converts CSV into JSON records"
 license = "Apache-2.0"
 visibility = "public"
 

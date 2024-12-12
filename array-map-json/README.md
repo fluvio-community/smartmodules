@@ -30,7 +30,7 @@ smdk build
 Test small file:
 
 ```
-smdk test --file ./test-data/simple.json --raw
+smdk test --file ./test-data/input.json --raw
 ```
 
 

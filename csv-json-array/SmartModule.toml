@@ -1,9 +1,9 @@
 [package]
-name = "csv-json"
+name = "csv-json-array"
 group = "fluvio"
 version = "0.1.0"
 apiVersion = "0.1.0"
-description = "Converts CSV into JSON"
+description = "Converts CSV into JSON array"
 license = "Apache-2.0"
 visibility = "public"
 

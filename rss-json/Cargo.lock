@@ -174,9 +174,9 @@ dependencies = [
 
 [[package]]
 name = "fluvio-protocol"
-version = "0.11.0"
+version = "0.12.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7d0d018de11a926dded54fa6ebbb0495cb15516f715392bebbcda76977fe12c1"
+checksum = "149e96ff432d40e7f5b47e36d2c18941c792d57f0ba9f3678935bf8d5bf3ebf3"
 dependencies = [
  "bytes",
  "cfg-if",
@@ -207,9 +207,9 @@ dependencies = [
 
 [[package]]
 name = "fluvio-smartmodule"
-version = "0.7.5"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e8d45e4940843a5674c862664d94e8da0d77c47c4a1794addbb8bf797f752534"
+checksum = "c7488651703b971d4aca5cf8c4ea6acfaa1137045445f94be88325cee2aa3414"
 dependencies = [
  "eyre",
  "fluvio-protocol",
@@ -373,7 +373,7 @@ dependencies = [
 
 [[package]]
 name = "rss-json"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
  "fluvio-smartmodule",
  "rss",
