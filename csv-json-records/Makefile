@@ -15,3 +15,8 @@ test-semicolon-snake: build
 
 test-semicolon-camel: build
 	@smdk test -e delimiter=";" -e header_case=camel --file ./test-data/semicolon-camel/input.csv --raw
+
+ test: test-comma test-transit test-semicolon-snake test-semicolon-camel
+
+make clean:
+	@smdk clean
