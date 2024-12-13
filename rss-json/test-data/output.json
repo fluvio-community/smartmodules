@@ -1,0 +1,348 @@
+{
+  "title": "Hacker News: Newest",
+  "link": "https://news.ycombinator.com/newest",
+  "description": "Hacker News RSS",
+  "docs": "https://hnrss.org/",
+  "generator": "hnrss v2.1",
+  "last_build_date": "Tue, 02 May 2023 18:37:30 +0000",
+  "extensions": {
+    "atom": {
+      "link": [
+        {
+          "attrs": {
+            "href": "https://hnrss.org/newest",
+            "rel": "self",
+            "type": "application/rss+xml"
+          },
+          "name": "atom:link"
+        }
+      ]
+    }
+  },
+  "namespaces": {
+    "atom": "http://www.w3.org/2005/Atom",
+    "dc": "http://purl.org/dc/elements/1.1/"
+  },
+  "items": [
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792188",
+      "description": "\n<p>Article URL: <a href=\"https://www.logicmatters.net/categories/\">https://www.logicmatters.net/categories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792188\">https://news.ycombinator.com/item?id=35792188</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "KurtGodelLives"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792188"
+      },
+      "link": "https://www.logicmatters.net/categories/",
+      "pub_date": "Tue, 02 May 2023 18:35:27 +0000",
+      "title": "Smith's notes on Category Theory I updated"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792177",
+      "description": "\n<p>Article URL: <a href=\"https://newrelic.com/blog/nerdlog/new-relic-grok\">https://newrelic.com/blog/nerdlog/new-relic-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792177\">https://news.ycombinator.com/item?id=35792177</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "JordiGarcL"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792177"
+      },
+      "link": "https://newrelic.com/blog/nerdlog/new-relic-grok",
+      "pub_date": "Tue, 02 May 2023 18:34:37 +0000",
+      "title": "Grok: New Relic's GPT Assistant"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792164",
+      "description": "\n<p>Article URL: <a href=\"https://kingnobro.github.io/iconshop/\">https://kingnobro.github.io/iconshop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792164\">https://news.ycombinator.com/item?id=35792164</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "motoxpro"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792164"
+      },
+      "link": "https://kingnobro.github.io/iconshop/",
+      "pub_date": "Tue, 02 May 2023 18:33:25 +0000",
+      "title": "IconShop: Text-based vector icon synthesis with autoregressive transformers"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792156",
+      "description": "\n<p>Article URL: <a href=\"https://holcombenergysystems.com/about-us/\">https://holcombenergysystems.com/about-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792156\">https://news.ycombinator.com/item?id=35792156</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "olivermarks"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792156"
+      },
+      "link": "https://holcombenergysystems.com/about-us/",
+      "pub_date": "Tue, 02 May 2023 18:33:11 +0000",
+      "title": "Holcomb Energy Systems the Future of Energy on Planet Earth"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792118",
+      "description": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=D0dBOcVUIbQ\">https://www.youtube.com/watch?v=D0dBOcVUIbQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792118\">https://news.ycombinator.com/item?id=35792118</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "indigodaddy"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792118"
+      },
+      "link": "https://www.youtube.com/watch?v=D0dBOcVUIbQ",
+      "pub_date": "Tue, 02 May 2023 18:30:04 +0000",
+      "title": "PC Expo New York 1994 (The Computer Chronicles) [video]"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792115",
+      "description": "\n<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-023-01465-4\">https://www.nature.com/articles/d41586-023-01465-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792115\">https://news.ycombinator.com/item?id=35792115</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "rntn"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792115"
+      },
+      "link": "https://www.nature.com/articles/d41586-023-01465-4",
+      "pub_date": "Tue, 02 May 2023 18:29:51 +0000",
+      "title": "Address the growing urgency of fungal disease in crops"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792104",
+      "description": "\n<p>Article URL: <a href=\"https://theconversation.com/ukraine-war-what-china-gains-from-acting-as-peacemaker-204629\">https://theconversation.com/ukraine-war-what-china-gains-from-acting-as-peacemaker-204629</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792104\">https://news.ycombinator.com/item?id=35792104</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "rntn"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792104"
+      },
+      "link": "https://theconversation.com/ukraine-war-what-china-gains-from-acting-as-peacemaker-204629",
+      "pub_date": "Tue, 02 May 2023 18:29:26 +0000",
+      "title": "Ukraine war: what China gains from acting as peacemaker"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792099",
+      "description": "\n<p>Article URL: <a href=\"https://www.nature.com/articles/s41467-023-37946-3\">https://www.nature.com/articles/s41467-023-37946-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792099\">https://news.ycombinator.com/item?id=35792099</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "rntn"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792099"
+      },
+      "link": "https://www.nature.com/articles/s41467-023-37946-3",
+      "pub_date": "Tue, 02 May 2023 18:28:48 +0000",
+      "title": "A low-carbon electricity sector in Europe risks sustaining regional inequalities"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35792084",
+      "description": "\n<p>Article URL: <a href=\"https://www.sciencedirect.com/science/article/pii/S0148296323001637\">https://www.sciencedirect.com/science/article/pii/S0148296323001637</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35792084\">https://news.ycombinator.com/item?id=35792084</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "rntn"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35792084"
+      },
+      "link": "https://www.sciencedirect.com/science/article/pii/S0148296323001637",
+      "pub_date": "Tue, 02 May 2023 18:28:05 +0000",
+      "title": "Consumer escapism: Scale development, validation, and physiological associations"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791947",
+      "description": "\n<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/\">https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791947\">https://news.ycombinator.com/item?id=35791947</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "pseudolus"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791947"
+      },
+      "link": "https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/",
+      "pub_date": "Tue, 02 May 2023 18:19:05 +0000",
+      "title": "NYPD urges citizens to buy AirTags to fight surge in car thefts"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791940",
+      "description": "\n<p>Article URL: <a href=\"https://www.dittowords.com/blog/we-built-a-vs-code-extension-to-streamline-dogfooding-at-ditto\">https://www.dittowords.com/blog/we-built-a-vs-code-extension-to-streamline-dogfooding-at-ditto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791940\">https://news.ycombinator.com/item?id=35791940</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "ashleynewman"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791940"
+      },
+      "link": "https://www.dittowords.com/blog/we-built-a-vs-code-extension-to-streamline-dogfooding-at-ditto",
+      "pub_date": "Tue, 02 May 2023 18:18:31 +0000",
+      "title": "Show HN: We built a VS Code extension to streamline dogfooding at Ditto"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791932",
+      "description": "\n<p>Article URL: <a href=\"https://github.com/XORbit01/webpalm\">https://github.com/XORbit01/webpalm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791932\">https://news.ycombinator.com/item?id=35791932</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "XORbit01"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791932"
+      },
+      "link": "https://github.com/XORbit01/webpalm",
+      "pub_date": "Tue, 02 May 2023 18:17:58 +0000",
+      "title": "New Modern Fast Crawler"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791920",
+      "description": "\n<p>Article URL: <a href=\"https://subscriber.politicopro.com/article/eenews/2023/05/02/many-bird-species-having-fewer-chicks-as-world-warms-00094754\">https://subscriber.politicopro.com/article/eenews/2023/05/02/many-bird-species-having-fewer-chicks-as-world-warms-00094754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791920\">https://news.ycombinator.com/item?id=35791920</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "pseudolus"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791920"
+      },
+      "link": "https://subscriber.politicopro.com/article/eenews/2023/05/02/many-bird-species-having-fewer-chicks-as-world-warms-00094754",
+      "pub_date": "Tue, 02 May 2023 18:17:04 +0000",
+      "title": "Many Bird Species Are Having Fewer Chicks as the World Warms"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791917",
+      "description": "\n<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2023/05/report-microsoft-plans-privacy-first-chatgpt-for-businesses-with-secrets-to-keep/\">https://arstechnica.com/information-technology/2023/05/report-microsoft-plans-privacy-first-chatgpt-for-businesses-with-secrets-to-keep/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791917\">https://news.ycombinator.com/item?id=35791917</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "hassanahmad"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791917"
+      },
+      "link": "https://arstechnica.com/information-technology/2023/05/report-microsoft-plans-privacy-first-chatgpt-for-businesses-with-secrets-to-keep/",
+      "pub_date": "Tue, 02 May 2023 18:16:55 +0000",
+      "title": "Microsoft could offer private ChatGPT to businesses for 10 times the normal cost"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791893",
+      "description": "\n<p>Article URL: <a href=\"https://synit.org/book/system-layer.html\">https://synit.org/book/system-layer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791893\">https://news.ycombinator.com/item?id=35791893</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "tonyg"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791893"
+      },
+      "link": "https://synit.org/book/system-layer.html",
+      "pub_date": "Tue, 02 May 2023 18:15:54 +0000",
+      "title": "Breaking Down the System Layer"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791859",
+      "description": "\n<p>Article URL: <a href=\"https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html\">https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791859\">https://news.ycombinator.com/item?id=35791859</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "anishathalye"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791859"
+      },
+      "link": "https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html",
+      "pub_date": "Tue, 02 May 2023 18:13:21 +0000",
+      "title": "Fine-Tuning OpenAI Language Models with Noisily Labeled Data"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791853",
+      "description": "\n<p>Article URL: <a href=\"https://github.com/GQueues/build-a-google-chat-bot-with-chatgpt\">https://github.com/GQueues/build-a-google-chat-bot-with-chatgpt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791853\">https://news.ycombinator.com/item?id=35791853</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "mooreds"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791853"
+      },
+      "link": "https://github.com/GQueues/build-a-google-chat-bot-with-chatgpt",
+      "pub_date": "Tue, 02 May 2023 18:12:50 +0000",
+      "title": "Build a Google Chat Bot Powered by ChatGPT"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791825",
+      "description": "\n<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative\">https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791825\">https://news.ycombinator.com/item?id=35791825</a></p>\n<p>Points: 9</p>\n<p># Comments: 9</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "latchkey"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791825"
+      },
+      "link": "https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative",
+      "pub_date": "Tue, 02 May 2023 18:10:56 +0000",
+      "title": "Bitcoin Climbs as US Bank Failure Bolsters Crypto Narrative"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791817",
+      "description": "\n<p>Article URL: <a href=\"https://www.theguardian.com/film/2023/may/01/oliver-stone-documentary-nuclear-power-putin-biden\">https://www.theguardian.com/film/2023/may/01/oliver-stone-documentary-nuclear-power-putin-biden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791817\">https://news.ycombinator.com/item?id=35791817</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "lisasays"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791817"
+      },
+      "link": "https://www.theguardian.com/film/2023/may/01/oliver-stone-documentary-nuclear-power-putin-biden",
+      "pub_date": "Tue, 02 May 2023 18:10:31 +0000",
+      "title": "Oliver Stone: ‘Putin is a great leader for his country’"
+    },
+    {
+      "comments": "https://news.ycombinator.com/item?id=35791794",
+      "description": "\n<p>Article URL: <a href=\"https://world.hey.com/jason/evaluating-a-redesign-80309257\">https://world.hey.com/jason/evaluating-a-redesign-80309257</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35791794\">https://news.ycombinator.com/item?id=35791794</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>\n",
+      "dublin_core_ext": {
+        "creators": [
+          "dotcoma"
+        ]
+      },
+      "guid": {
+        "permalink": false,
+        "value": "https://news.ycombinator.com/item?id=35791794"
+      },
+      "link": "https://world.hey.com/jason/evaluating-a-redesign-80309257",
+      "pub_date": "Tue, 02 May 2023 18:08:39 +0000",
+      "title": "Evaluating a Redesign"
+    }
+  ]
+}

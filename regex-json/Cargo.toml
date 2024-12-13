@@ -1,0 +1,24 @@
+[package]
+name = "regex-json"
+version = "0.2.0"
+authors = ["Fluvio Contributors <team@fluvio.io>"]
+edition = "2021"
+license = "Apache-2.0"
+
+[lib]
+crate-type = ['cdylib']
+
+[dependencies]
+fluvio-smartmodule = "0.8.0"
+serde = { version = "1", default-features = false, features = ["derive"] }
+serde_json = { version = "1", default-features = false, features = ["std"] }
+once_cell = { version = "1.17.1", default-features = false }
+eyre = { version = "0.6.8", default-features = false }
+regex = {version = "1.8", default-features = false, features = ["std", "unicode"] }
+serde_regex = {version = "1.1.0" }
+
+
+[profile.release-lto]
+inherits = "release"
+lto = true
+strip = "symbols"

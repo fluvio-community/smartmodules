@@ -1,0 +1,8 @@
+transforms:
+  - uses: fluvio/key-gen-json@0.1.0
+    with:
+      spec:
+        lookup:
+          - "/pub_date"
+          - "/last_build_date"
+        key_name: "dedup_key"

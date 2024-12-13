@@ -1,0 +1,12 @@
+[package]
+name = "key-gen-json"
+group = "fluvio"
+version = "0.1.0"
+apiVersion = "0.1.0"
+description = "Generate a JSON digest from JSON values"
+license = "Apache-2.0"
+visibility = "public"
+
+[[params]]
+name = "spec"
+description = "KeyGen specification"

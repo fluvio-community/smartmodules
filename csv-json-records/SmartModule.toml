@@ -1,0 +1,12 @@
+[package]
+name = "csv-json-records"
+group = "fluvio"
+version = "0.1.0"
+apiVersion = "0.1.0"
+description = "Converts CSV into JSON records"
+license = "Apache-2.0"
+visibility = "public"
+
+[[params]]
+name = "input"
+description = "input description"

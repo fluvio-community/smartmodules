@@ -1,0 +1,4 @@
+{"email":"alice@acme.com","name":"Alice Liddell","type":"subscribe","source":"front-page"}
+{"email":"bob@acme.com","name":"Bob Newland","type":"use-case","source":"iot", "description":"Tracking fleet of trucks"}
+{"email":"charlie@acme.com","name":"Charlie Brimmer","type":"use-case","source":"clickstream", "description":"Track user interests"}
+{"email":"random@acme.com","name":"Random Dude","type":"undefined"}

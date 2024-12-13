@@ -1,0 +1,20 @@
+transforms:
+  - uses: fluvio/regex-json@0.1.0
+    with:
+      spec:
+        - capture:
+            regex: "(?i)Highlights:\\s+(\\w+)\\b"
+            target: "/description"
+            output: "/parsed/highlights"        
+        - capture: 
+            regex: "(?i)Entity:\\s+([\\w,\\s\\.\\']*\\S)\\s*\\["
+            target: "/description"
+            output: "/parsed/entity"
+        - capture:
+            regex: "href='([^']+)'"
+            target: "/description"
+            output: "/parsed/doc-link"
+        - replace:
+            regex: "\\d{3}-\\d{2}-\\d{4}"
+            target: "/customer/ssn"
+            with: "***-**-****"

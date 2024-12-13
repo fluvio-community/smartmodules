@@ -1,0 +1,24 @@
+[package]
+name = "key-gen-json"
+version = "0.2.0"
+authors = ["Fluvio Contributors <team@fluvio.io>"]
+description = "JSON key generation SmartModule"
+edition = "2021"
+license = "Apache-2.0"
+
+[lib]
+crate-type = ['cdylib']
+
+[dependencies]
+fluvio-smartmodule = "0.8.0"
+serde = { version = "1", default-features = false, features = ["derive"] }
+serde_json = { version = "1", default-features = false, features = ["std"] }
+once_cell = { version = "1.17.1", default-features = false }
+eyre = { version = "0.6.6", default-features = false }
+sha2 = "0.10"
+hex = "0.4.3"
+
+[profile.release-lto]
+inherits = "release"
+lto = true
+strip = "symbols"
