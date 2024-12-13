@@ -145,28 +145,39 @@ mod tests {
     use super::*;
     use std::fs::File;
     use std::io::Read;
+    use std::fs;
+    use serde_json::Value;
+
+    fn convert_records_to_json(result: Vec<(Option<RecordData>, RecordData)>) -> Vec<Value> {
+        let result_json: Vec<Value> = result
+            .into_iter()
+            .map(|(_, record_data)| {
+                // Convert RecordData into JSON object
+                serde_json::from_slice::<Value>(&record_data.to_vec()).unwrap()
+            })
+            .collect();
+        result_json
+    }
 
     #[test]
     fn test_process_parquet_data_with_mtcars() -> Result<()> {
-        let file_path = "test-data/mtcars.parquet";
-        let mut file = File::open(file_path).expect("Failed to open file");
+        let parquet_file_path = "test-data/mtcars.parquet";
+        let mut parquet_file = File::open(parquet_file_path).expect("Failed to open file");
         let mut parquet_data = Vec::new();
-        file.read_to_end(&mut parquet_data).expect("Failed to read file");
+        parquet_file.read_to_end(&mut parquet_data).expect("Failed to read file");
 
         // Call the function under test
         let records = process_parquet_data(&parquet_data)?;
+        let computed_output = convert_records_to_json(records);
+        let computer_str = serde_json::to_string_pretty(&computed_output).expect("Failed to serialize vec1");
 
-        // Validate the output
-        assert!(!records.is_empty(), "The dataset should not be empty");
+        // Prepare Result
+        let output_file_path = "test-data/output.json";
+        let output_file = fs::read_to_string(output_file_path).unwrap();
+        let expected_output: Vec<Value> = serde_json::from_str(&output_file).expect("Failed to parse JSON");
+        let expected_str = serde_json::to_string_pretty(&expected_output).expect("Failed to serialize vec1");
 
-        // Print and check the first record for debugging purposes
-        if let Some((_, record_data)) = records.first() {
-            println!("First record: {:?}", record_data);
-        }
-
-        // Further validations (example: check specific values if known)
-        assert_eq!(records.len(), 32, "The dataset should have 32 rows");
-
+        assert_eq!(computer_str, expected_str);
         Ok(())
     }
 }
