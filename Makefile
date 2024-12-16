@@ -7,6 +7,7 @@ PROJ = \
 	csv-json-records \
 	json-formatter \
 	key-gen-json \
+	parquet-json-records \
 	regex-json \
 	regex-text \
 	rss-json

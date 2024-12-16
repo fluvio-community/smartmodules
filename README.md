@@ -2,16 +2,17 @@
 
 This repository contains a collection of smartmodules that can be used with the Fluvio CLI or inside Fluvio Connectors.
 
-| Smartmodule Project           | Input  | Output | Description                           |
-| ----------------------------- | ------ | ------ | ------------------------------------ |
-| [rss-json]                    | xml    | json   | Parses RSS XML input into JSON format |
-| [json-formatter]              | json   | json   | Generated a formatted string from JSON values |
-| [key-gen-json]                | json   | json   | Generates a unique key (digest) from JSON values |
-| [array-map-json]              | json   | json   | Splits an JSON array into individual records |
-| [regex-json]              | json   | json   | Applies Regex transformations on JSON values |
-| [regex-text]                  | text   | text   | Applies Regex transformations on arbitrary text |
-| [csv-json-array]              | csv    | json   | Turns a CVS file into an array of json records | 
-| [csv-json-records]            | csv    | json   | Turns a CVS file into individual of json records | 
+| Smartmodule Project           | Input   | Output | Description                           |
+| ----------------------------- | ------- | ------ | ------------------------------------- |
+| [rss-json]                    | xml     | json   | Parses RSS XML input into JSON format |
+| [json-formatter]              | json    | json   | Generated a formatted string from JSON values |
+| [key-gen-json]                | json    | json   | Generates a unique key (digest) from JSON values |
+| [array-map-json]              | json    | json   | Splits an JSON array into individual records |
+| [regex-json]                  | json    | json   | Applies Regex transformations on JSON values |
+| [regex-text]                  | text    | text   | Applies Regex transformations on arbitrary text |
+| [csv-json-array]              | csv     | json   | Turns a CVS file into an array of json records | 
+| [csv-json-records]            | csv     | json   | Turns a CVS file into individual of json records | 
+| [parquet-json-records]        | parquet | json   | Turns a parquet file into individual of json records | 
 
 
 ## Download from Hub
@@ -61,5 +62,6 @@ Checkout the documentation on how to [build your smartmodule].
 [regex-text]: regex-text/README.md
 [csv-json-array]: csv-json-array/README.md
 [csv-json-records]: csv-json-records/README.md
+[parquet-json-records]: parquet-json-records/README.md
 
 [build your smartmodule]: https://www.fluvio.io/docs/smartmodules/developers/overview
