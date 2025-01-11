@@ -13,6 +13,7 @@ This repository contains a collection of smartmodules that can be used with the 
 | [csv-json-array]              | csv     | json   | Turns a CVS file into an array of json records | 
 | [csv-json-records]            | csv     | json   | Turns a CVS file into individual of json records | 
 | [parquet-json-records]        | parquet | json   | Turns a parquet file into individual of json records | 
+| [solana-balance-calculator]        | json | json   | Computes balance changes in Solana transactions | 
 
 
 ## Download from Hub
@@ -63,5 +64,6 @@ Checkout the documentation on how to [build your smartmodule].
 [csv-json-array]: csv-json-array/README.md
 [csv-json-records]: csv-json-records/README.md
 [parquet-json-records]: parquet-json-records/README.md
+[solana-balance-calculator]: solana/balance-calculator/README.md
 
 [build your smartmodule]: https://www.fluvio.io/docs/smartmodules/developers/overview
