@@ -29,9 +29,9 @@ In our tests, the output will generate the followig JSON array:
 
 Checkout the full output file here: [output.json](./test-data/output.json).
 
-## SMDK Compatible
+## Build & Test with SMDK
 
-This project works with `smdk` command tools:
+Use `smdk` command tools to build and test the smartmodule:
 
 ```
 smdk build

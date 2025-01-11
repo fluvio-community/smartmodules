@@ -1,5 +1,5 @@
 [package]
-name = "parquet-json-records"
+name = "solana-balance-calculator"
 version = "0.1.0"
 authors = ["Fluvio Contributors <team@fluvio.io>"]
 edition = "2021"
@@ -12,10 +12,7 @@ crate-type = ['cdylib']
 fluvio-smartmodule = "0.8.0"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
-hex = "0.4.3"
-parquet = "53.3.0"
-chrono = "0.4.39"
-bytes = "1.9.0"
+solana-transaction-status-client-types = "=2.1.7"
 
 
 [profile.release-lto]
