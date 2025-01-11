@@ -1,6 +1,6 @@
 ## Solana Balance Calculator
 
-Balance Calculator Smartmodule computes balance changes in a  EncodedTransactionWithStatusMeta record. If no balance change is detected, the record is ignored.
+Balance Calculator Smartmodule computes balance changes in a  [EncodedTransactionWithStatusMeta](https://docs.rs/solana-transaction-status/latest/solana_transaction_status/struct.EncodedTransactionWithStatusMeta.html) record. If no balance change is detected, the record is ignored.
 
 ## Expected Input/Outpot
 
