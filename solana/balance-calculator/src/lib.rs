@@ -1,5 +1,3 @@
-
-
 use fluvio_smartmodule::{smartmodule, SmartModuleRecord, RecordData, Result, eyre};
 use solana_transaction_status_client_types::{
     EncodedTransactionWithStatusMeta, EncodedTransaction, UiMessage, ParsedAccount};
