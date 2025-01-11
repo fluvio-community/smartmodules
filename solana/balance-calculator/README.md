@@ -33,7 +33,7 @@ Use `smdk` command tools to build and test the smartmodule:
 smdk build
 ```
 
-Test small file:
+Test using the sample record:
 
 ```
 smdk test --file test-data/input-record.json --raw
