@@ -2,4 +2,4 @@
 
 Compute various tranformations on Solana blockchain data.
 
-* [balance-calc](solana-balance-calc/README.md)
+* [balance-calculator](balance-calculator/README.md)
