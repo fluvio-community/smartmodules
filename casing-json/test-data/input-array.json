@@ -1,0 +1,17 @@
+{
+  "fooBar": [
+    {
+      "moreFooBar": {
+        "andEvenMoreFooBar": "foo"
+      }
+    },
+    true,
+    {
+      "notDoneWithFooYet": {
+        "moreFoo": {
+          "fooBar": "foo"
+        }
+      }
+    }
+  ]
+}
