@@ -1,0 +1,17 @@
+{
+  "foo_bar": [
+    {
+      "more_foo_bar": {
+        "and_even_more_foo_bar": "foo"
+      }
+    },
+    true,
+    {
+      "not_done_with_foo_yet": {
+        "more_foo": {
+          "fooBar": "foo"
+        }
+      }
+    }
+  ]
+}

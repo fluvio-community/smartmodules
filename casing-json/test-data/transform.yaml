@@ -1,0 +1,6 @@
+transforms:
+  - uses: fluvio/casing-json@0.1.0
+    with:
+      spec:
+        casing: camel
+        depth: 1

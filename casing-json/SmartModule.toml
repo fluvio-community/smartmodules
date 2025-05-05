@@ -1,0 +1,12 @@
+[package]
+name = "casing-json"
+group = "fluvio"
+version = "0.1.0"
+apiVersion = "0.1.0"
+description = "Convert JSON object keys to given casing"
+license = "Apache-2.0"
+visibility = "public"
+
+[[params]]
+name = "input"
+description = "input description"
